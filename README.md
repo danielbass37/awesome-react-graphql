@@ -73,6 +73,7 @@
   - [(Video) Building a Real Time React Application with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=qNkkPoq9D3k&t=10s)
   - [(Video) Building Full-Stack App, Including a GraphQL Server on Node.js & React Front-End (with Apollo)](https://www.youtube.com/watch?v=XeALXh37WeU)
   - [(Video series) React Apollo New Rendered Props Components](https://www.youtube.com/watch?v=gF-peiFjG0o&list=PLN3n1USn4xlnsOPMwzSG4RiaGvtKMNCmn): Learn about the new components in React Apollo. They use Rendered Props.
+  - [GraphQL RBAC Authorization Tutorial](https://www.permit.io/blog/implementing-graphql-authorization)
 - React Native
   - [React Native + Apollo Tutorial](https://learn.hasura.io/graphql/react-native)
   - [(Video series) Build a Twitter Clone with Apollo Graphql & React-Native](https://www.youtube.com/watch?v=33qP1QMmjv8)
